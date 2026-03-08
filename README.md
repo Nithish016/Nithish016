@@ -1,5 +1,9 @@
 # Gubba Nithish | Full-Stack Developer & UI/UX Specialist 👋
 
+<p align="center">
+  <img src="./photo.jpeg" alt="Gubba Nithish" width="250" style="border-radius: 50%;">
+</p>
+
 Welcome to my professional portfolio repository! I am a dedicated web developer based in **Hyderabad, Telangana, India**, passionate about creating high-performance, accessible, and visually stunning digital experiences.
 
 ---
