@@ -1,33 +1,52 @@
-## Hi there 👋
+# Gubba Nithish | Full-Stack Developer & UI/UX Specialist 👋
 
-I'm Nithish, a passionate learner and aspiring **Web Developer** 🚀  
+Welcome to my professional portfolio repository! I am a dedicated web developer based in **Hyderabad, Telangana, India**, passionate about creating high-performance, accessible, and visually stunning digital experiences.
 
-### 🔭 Currently working on
-- Building responsive websites using **HTML, CSS, JavaScript**
-- Exploring **React.js** and **Node.js** for full-stack development
+---
 
-### 🌱 Currently learning
-- Modern frontend frameworks (**React, Next.js**)
-- Backend technologies (**Express, MongoDB**)
-- Deployment with **Vercel** and **Netlify**
+## 🚀 About Me
 
-### 👯 Looking to collaborate on
-- Open-source web projects
-- Creative frontend designs
-- Backend APIs and database-driven apps
+I build digital solutions that combine robust backend logic with elegant frontend design. My journey is defined by constant learning and a commitment to high-quality code.
 
-### 🤔 Looking for help with
-- Best practices in **scalable web apps**
-- Improving **UI/UX design skills**
+- 🌍 **Location:** Hyderabad, Telangana, India
+- ✉️ **Contact:** [gubbanithish9@gmail.com](mailto:gubbanithish9@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://share.google/kqJjhMrqHBHynTIu4)
+- 📄 **Resume:** [Download My Resume](./gubba_nithish_resume.pdf)
 
-### 💬 Ask me about
-- Web development basics
-- JavaScript tricks
-- Setting up a simple backend with Node.js
+---
 
-### 📫 How to reach me
-[LinkedIn]https://share.google/kqJjhMrqHBHynTIu4/)  
-- [Email](gubbanithish9@example.com)
+## 🛠️ Technical Stack
 
-### ⚡ Fun fact
-I love turning ideas into interactive websites 🌐
+- **Frontend:** HTML5, CSS3 (Modern Flexbox/Grid), JavaScript (ES6+), React.js
+- **Backend:** Python (Flask, Django, FastAPI), Node.js
+- **Design:** UI/UX Design, Glassmorphism, Responsive Design
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌟 Featured Projects
+
+### 📊 [ESG - Event Management](https://github.com/Nithish016/ESG)
+A responsive admin dashboard for ESG featuring college event management and a star rating system for seamless evaluation.
+
+### 🚜 Crop Prediction System
+Advanced crop prediction and recommendation system utilizing machine learning algorithms to assist farmers in optimizing yields.
+
+---
+
+## 📈 Stats
+
+![Gubba Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithish016&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish016&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** [gubbanithish9@gmail.com](mailto:gubbanithish9@gmail.com)
+- **LinkedIn:** [Gubba Nithish](https://share.google/kqJjhMrqHBHynTIu4)
+- **GitHub:** [@Nithish016](https://github.com/Nithish016)
+
+---
+
+*“I love turning complex problems into elegant, user-centric solutions.”*
