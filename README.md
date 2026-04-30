@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 IT student passionate about becoming a software engineer  
+👨‍💻 Diploma in computer science engineering , B.TECH in IT student passionate about becoming a software engineer  
 💡 Interested in full stack development and problem solving  
 🚀 Focused on continuous learning and self-improvement  
 🌱 Currently Learning  
