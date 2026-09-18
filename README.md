@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nithish016">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Gubba%20Nithish%20%F0%9F%91%8B;Computer%20Science%20%26%20IT%20Engineer%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20Data%20Enthusiast%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Gubba%20Nithish%20%F0%9F%91%8B;B.Tech%20in%20Information%20Technology%20%F0%9F%8E%93;Diploma%20in%20Computer%20Science%20%F0%9F%92%BB;Full-Stack%20Web%20Developer%20%F0%9F%9A%80;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,16 +49,18 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Gubba Nithish</b>, a passionate <b>Computer Science & IT student & developer</b> based in Hyderabad, India.<br />
+  Hey! I'm <b>Gubba Nithish</b>, a passionate <b>B.Tech in Information Technology</b> student with a <b>Diploma in Computer Science</b> & developer based in Hyderabad, India.<br />
   I specialize in architecting scalable full-stack web platforms, designing responsive user experiences, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Tech_IT_%7C_Diploma_CSE-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_in_Information_Technology-DC2626?style=flat-square" alt="B.Tech IT" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Diploma-Computer_Science-111111?style=flat-square" alt="Diploma CS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-DC2626?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
