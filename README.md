@@ -22,7 +22,11 @@
   </a>
   &nbsp;
   <a href="mailto:gubbanithish9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-gubbanithish9%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="tel:+919347094035">
+    <img src="https://img.shields.io/badge/Contact-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="Contact" />
   </a>
   &nbsp;
   <a href="https://github.com/Nithish016/Nithish016/blob/main/gubba_nithish_resume.pdf" target="_blank">
@@ -210,26 +214,33 @@
 
 <table border="0" align="center">
   <tr>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="170" style="padding: 14px;">
       <a href="https://www.linkedin.com/in/gubba-nithish-993629380" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" /><br /><br />
         <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
       </a><br />
       <sub><b>Professional Network</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="170" style="padding: 14px;">
       <a href="https://www.instagram.com/gubbanithish" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram" /><br /><br />
         <img src="https://img.shields.io/badge/Instagram-@gubbanithish-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
       </a><br />
       <sub><b>Social & Connect</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 16px;">
+    <td align="center" width="170" style="padding: 14px;">
       <a href="mailto:gubbanithish9@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" /><br /><br />
         <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
       </a><br />
-      <sub><b>Direct Collaboration</b></sub>
+      <sub><b>gubbanithish9@gmail.com</b></sub>
+    </td>
+    <td align="center" width="170" style="padding: 14px;">
+      <a href="tel:+919347094035">
+        <img src="https://img.shields.io/badge/Phone-%2B91_9347094035-DC2626?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a" alt="Phone" /><br /><br />
+        <img src="https://img.shields.io/badge/WhatsApp-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+      </a><br />
+      <sub><b>+91 9347094035</b></sub>
     </td>
   </tr>
 </table>
