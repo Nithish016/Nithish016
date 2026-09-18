@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
+  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
+  </a>
+  &nbsp;
   <a href="mailto:gubbanithish9@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
@@ -118,9 +122,9 @@
   </tr>
 </table>
 
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
+<h2 align="center">🧩 Algorithmic Problem Solving & Practice</h2>
 
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones across platforms.</i></p>
 
 <p align="center">
   <a href="https://leetcode.com/Nithish016/" target="_blank">
@@ -131,6 +135,10 @@
 <p align="center">
   <a href="https://leetcode.com/Nithish016/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Visit_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Profile" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/Nithish016/" target="_blank">
