@@ -130,11 +130,19 @@
 
 <h2 align="center">🧩 Algorithmic Problem Solving & Practice</h2>
 
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones across platforms.</i></p>
+<p align="center"><i>Live real-time tracker of coding challenges, scores, and badges across competitive platforms.</i></p>
 
+<!-- LeetCode Stats Card -->
 <p align="center">
   <a href="https://leetcode.com/Nithish016/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Nithish016?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<!-- HackerRank Score & Badges Card -->
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
+    <img src="assets/hackerrank-card.svg" width="100%" style="max-width: 480px;" alt="HackerRank Score & Badges Card" />
   </a>
 </p>
 
@@ -144,11 +152,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Visit_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Profile" />
+    <img src="https://img.shields.io/badge/HackerRank-Score_15_Pts-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Score" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/Nithish016/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
+    <img src="https://img.shields.io/badge/Badges-Problem_Solving_%7C_Java-2EC866?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Badges" />
   </a>
 </p>
 
