@@ -130,39 +130,40 @@
 
 <h2 align="center">🧩 Algorithmic Problem Solving & Practice</h2>
 
-<p align="center"><i>Live real-time tracker of coding challenges, scores, and badges across competitive platforms.</i></p>
+<p align="center">
+  <i>Live real-time tracker of coding challenges, scores, and badges across competitive platforms.</i>
+</p>
 
 <!-- LeetCode Stats Card -->
+
 <p align="center">
   <a href="https://leetcode.com/Nithish016/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Nithish016?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
-<!-- HackerRank Score & Badges Card -->
+<!-- HackerRank Stats -->
+
 <p align="center">
   <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="assets/hackerrank-card.svg" width="100%" style="max-width: 480px;" alt="HackerRank Score & Badges Card" />
+    <img src="https://img.shields.io/badge/HackerRank-Problems%20Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Problems Solved" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/Nithish016/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-15%20Points-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Score" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Score_15_Pts-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Score" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/Badges-Problem_Solving_%7C_Java-2EC866?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Badges" />
+    <img src="https://img.shields.io/badge/Badges-Problem%20Solving%20%7C%20Java-2EC866?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Badges" />
   </a>
 </p>
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
@@ -170,6 +171,7 @@
 </p>
 
 <p align="center"><b>Frontend & Mobile Development</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
@@ -177,6 +179,7 @@
 </p>
 
 <p align="center"><b>Backend, Cloud & Databases</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,sqlite,supabase,firebase&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
@@ -184,6 +187,7 @@
 </p>
 
 <p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vite,vscode,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
@@ -218,7 +222,9 @@
 
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
-<p align="center"><i>Whether you want to discuss full-stack development, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+<p align="center">
+  <i>Whether you want to discuss full-stack development, explore open-source collaboration, or just say hello — my inbox is always open!</i>
+</p>
 
 <table border="0" align="center">
   <tr>
@@ -229,26 +235,32 @@
       </a><br />
       <sub><b>Professional Network</b></sub>
     </td>
-    <td align="center" width="170" style="padding: 14px;">
-      <a href="https://www.instagram.com/gubbanithish" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram" /><br /><br />
-        <img src="https://img.shields.io/badge/Instagram-@gubbanithish-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-      </a><br />
-      <sub><b>Social & Connect</b></sub>
-    </td>
-    <td align="center" width="170" style="padding: 14px;">
-      <a href="mailto:gubbanithish9@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" /><br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-      </a><br />
-      <sub><b>gubbanithish9@gmail.com</b></sub>
-    </td>
-    <td align="center" width="170" style="padding: 14px;">
-      <a href="tel:+919347094035">
-        <img src="https://img.shields.io/badge/Phone-%2B91_9347094035-DC2626?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a" alt="Phone" /><br /><br />
-        <img src="https://img.shields.io/badge/WhatsApp-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
-      </a><br />
-      <sub><b>+91 9347094035</b></sub>
-    </td>
+
+```
+<td align="center" width="170" style="padding: 14px;">
+  <a href="https://www.instagram.com/gubbanithish" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram" /><br /><br />
+    <img src="https://img.shields.io/badge/Instagram-@gubbanithish-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a><br />
+  <sub><b>Social & Connect</b></sub>
+</td>
+
+<td align="center" width="170" style="padding: 14px;">
+  <a href="mailto:gubbanithish9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" /><br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a><br />
+  <sub><b>gubbanithish9@gmail.com</b></sub>
+</td>
+
+<td align="center" width="170" style="padding: 14px;">
+  <a href="tel:+919347094035">
+    <img src="https://img.shields.io/badge/Phone-%2B91_9347094035-DC2626?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a" alt="Phone" /><br /><br />
+    <img src="https://img.shields.io/badge/WhatsApp-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+  </a><br />
+  <sub><b>+91 9347094035</b></sub>
+</td>
+```
+
   </tr>
 </table>
