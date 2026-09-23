@@ -81,6 +81,7 @@
         <sub>Full Stack Event Coordination Platform</sub>
       </p>
     </td>
+
     <td width="50%" align="center" style="padding: 14px;">
       <h4>⚡ Active Deep Dives</h4>
       <p>
@@ -89,6 +90,7 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🌾 ML Innovation</h4>
@@ -97,6 +99,7 @@
         <sub>Data-Driven Agriculture Analytics</sub>
       </p>
     </td>
+
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🤝 Collaboration</h4>
       <p>
@@ -113,13 +116,24 @@
   <tr>
     <td align="center" style="padding: 22px;">
       <h3>ESG - Event Management System</h3>
-      <p><i>A comprehensive web platform designed for streamlined planning, attendee coordination, and management of enterprise and campus events with modern responsive UI.</i></p>
+
+      <p>
+        <i>
+          A comprehensive web platform designed for streamlined planning,
+          attendee coordination, and management of enterprise and campus events
+          with modern responsive UI.
+        </i>
+      </p>
+
       <br />
+
       <p>
         <a href="https://github.com/Nithish016" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
         </a>
+
         &nbsp;&nbsp;
+
         <a href="https://github.com/Nithish016" target="_blank">
           <img src="https://img.shields.io/badge/Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
         </a>
@@ -128,35 +142,54 @@
   </tr>
 </table>
 
+<!-- ===================================================== -->
+<!-- CODING PLATFORMS -->
+<!-- ===================================================== -->
+
 <h2 align="center">🧩 Algorithmic Problem Solving & Practice</h2>
 
 <p align="center">
-  <i>Live real-time tracker of coding challenges, scores, and badges across competitive platforms.</i>
+  <i>
+    Live tracker of coding challenges, scores, and badges across competitive platforms.
+  </i>
 </p>
 
-<!-- LeetCode Stats Card -->
+<!-- ==================== LEETCODE ==================== -->
+
+<h3 align="center">💻 LeetCode</h3>
 
 <p align="center">
   <a href="https://leetcode.com/Nithish016/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Nithish016?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+    <img
+      src="https://leetcard.jacoblin.cool/Nithish016?theme=dark&font=Karma&border=0&radius=12"
+      width="100%"
+      style="max-width: 480px;"
+      alt="LeetCode Live Stats Card"
+    />
   </a>
 </p>
 
-<!-- HackerRank Stats -->
+<!-- ==================== HACKERRANK ==================== -->
+
+<h3 align="center">🏆 HackerRank</h3>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Problems%20Solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Problems Solved" />
+    <img
+      src="https://crackalgo.in/api/widget/stats?hackerrank=gubbanithish9"
+      width="100%"
+      style="max-width: 480px;"
+      alt="HackerRank Live Stats Card"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-15%20Points-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Score" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/gubbanithish9" target="_blank">
-    <img src="https://img.shields.io/badge/Badges-Problem%20Solving%20%7C%20Java-2EC866?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Badges" />
+    <img
+      src="https://img.shields.io/badge/HackerRank-Visit%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a"
+      alt="HackerRank Profile"
+    />
   </a>
 </p>
 
@@ -166,7 +199,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+    <img
+      src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css&theme=dark"
+      width="100%"
+      style="max-width: 420px;"
+      alt="Languages"
+    />
   </a>
 </p>
 
@@ -174,7 +212,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+    <img
+      src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap&theme=dark"
+      width="100%"
+      style="max-width: 380px;"
+      alt="Frontend and Mobile"
+    />
   </a>
 </p>
 
@@ -182,7 +225,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,sqlite,supabase,firebase&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+    <img
+      src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,sqlite,supabase,firebase&theme=dark"
+      width="100%"
+      style="max-width: 420px;"
+      alt="Backend and Databases"
+    />
   </a>
 </p>
 
@@ -190,7 +238,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,vite,vscode,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+    <img
+      src="https://skillicons.dev/icons?i=opencv,git,github,postman,vite,vscode,figma&theme=dark"
+      width="100%"
+      style="max-width: 420px;"
+      alt="Tools and AI"
+    />
   </a>
 </p>
 
@@ -205,62 +258,94 @@
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithish016&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nithish016&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8"
+    width="100%"
+    style="max-width: 440px;"
+    alt="GitHub Stats"
+  />
+
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish016&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish016&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8"
+    width="100%"
+    style="max-width: 350px;"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nithish016&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Nithish016&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    width="100%"
+    style="max-width: 480px;"
+    alt="GitHub Streak"
+  />
 </p>
 
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Snake Animation"
+  />
 </p>
 
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
 <p align="center">
-  <i>Whether you want to discuss full-stack development, explore open-source collaboration, or just say hello — my inbox is always open!</i>
+  <i>
+    Whether you want to discuss full-stack development,
+    explore open-source collaboration, or just say hello —
+    my inbox is always open!
+  </i>
 </p>
 
 <table border="0" align="center">
   <tr>
+
     <td align="center" width="170" style="padding: 14px;">
       <a href="https://www.linkedin.com/in/gubba-nithish-993629380" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn" />
+        <br /><br />
         <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-      </a><br />
+      </a>
+      <br />
       <sub><b>Professional Network</b></sub>
     </td>
 
-```
-<td align="center" width="170" style="padding: 14px;">
-  <a href="https://www.instagram.com/gubbanithish" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram" /><br /><br />
-    <img src="https://img.shields.io/badge/Instagram-@gubbanithish-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a><br />
-  <sub><b>Social & Connect</b></sub>
-</td>
+    <td align="center" width="170" style="padding: 14px;">
+      <a href="https://www.instagram.com/gubbanithish" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Instagram-@gubbanithish-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+      </a>
+      <br />
+      <sub><b>Social & Connect</b></sub>
+    </td>
 
-<td align="center" width="170" style="padding: 14px;">
-  <a href="mailto:gubbanithish9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" /><br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a><br />
-  <sub><b>gubbanithish9@gmail.com</b></sub>
-</td>
+    <td align="center" width="170" style="padding: 14px;">
+      <a href="mailto:gubbanithish9@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+      </a>
+      <br />
+      <sub><b>gubbanithish9@gmail.com</b></sub>
+    </td>
 
-<td align="center" width="170" style="padding: 14px;">
-  <a href="tel:+919347094035">
-    <img src="https://img.shields.io/badge/Phone-%2B91_9347094035-DC2626?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a" alt="Phone" /><br /><br />
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
-  </a><br />
-  <sub><b>+91 9347094035</b></sub>
-</td>
-```
+    <td align="center" width="170" style="padding: 14px;">
+      <a href="tel:+919347094035">
+        <img src="https://img.shields.io/badge/Phone-%2B91_9347094035-DC2626?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a" alt="Phone" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/WhatsApp-%2B91_9347094035-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a" alt="WhatsApp" />
+      </a>
+      <br />
+      <sub><b>+91 9347094035</b></sub>
+    </td>
 
   </tr>
 </table>
